@@ -1,6 +1,6 @@
 /* Add your CSS styles here */
 body {
-    font-family: Arial, sans-serif;
+    font-family: montserrat;
     margin: 0;
     padding: 0;
 }
@@ -31,6 +31,7 @@ nav ul li a {
     width: 80%;
     margin: 20px auto;
     text-align: center;
+    color: white
 }
 .me{
     float: right;
