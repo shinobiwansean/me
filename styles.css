@@ -4,6 +4,12 @@ body {
     margin: 0;
     padding: 0;
 }
+body.mainbody{
+     background-image: url('KSU-campus-1600x880.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
 
 header {
     background-color: #333;
