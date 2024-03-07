@@ -1,14 +1,8 @@
 /* font and photo styling */
 body {
-    font-family: montserrat;
+    font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-}
-body.mainbody{
-     background-image: url('KSU-campus-1600x880.jpg');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
 }
 
 header {
@@ -41,6 +35,7 @@ nav ul li a {
 }
 img.me {
     border-radius: 50%;   
+    float: left
 }
 
 .container h1 {
