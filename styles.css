@@ -33,7 +33,7 @@ nav ul li a {
     text-align: center;
     color: white
 }
-.me {
+img.me {
     float: right;
     border: 1px solid #ddd;
     border-radius: 4px;
